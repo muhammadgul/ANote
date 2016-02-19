@@ -8,6 +8,10 @@ very nice commands
 https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
 After changes to see
 git diff
+To add a new file
+git add fileName
 git commit -m "what you changed"
+If you change a file then commit using the following command
+git commit -a
 git push
-kkkkkk
+
