@@ -6,5 +6,8 @@ set ssh key
 https://help.github.com/articles/generating-a-new-ssh-key/
 very nice commands
 https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
-
+After changes to see
+git diff
+git commit -m "what you changed"
+git push
 
