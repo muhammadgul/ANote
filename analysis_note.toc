@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}CMS Detector}{2}{section.2}
+\contentsline {section}{\numberline {3}Signal MC Generation and Simulation}{2}{section.3}
+\contentsline {section}{\numberline {4}Data and Monte Carlo Samples}{4}{section.4}
+\contentsline {section}{\numberline {5}Event Reconstruction and Selection}{4}{section.5}
+\contentsline {subsection}{\numberline {5.1}Event Selection}{4}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Muon Identification \& Isolation}{6}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Jets Identification}{6}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}B-tagging}{6}{subsubsection.5.3.1}
+\contentsline {subsection}{\numberline {5.4}Higgs boson Reconstruction}{7}{subsection.5.4}
+\contentsline {section}{\numberline {6}Analysis Strategy}{9}{section.6}
+\contentsline {section}{\numberline {7}Discussion and Conclusions}{17}{section.7}
+\contentsline {section}{\numberline {8}Acknowledgements}{17}{section.8}
+\contentsline {section}{\numberline {9}Appendix}{17}{section.9}
