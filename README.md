@@ -15,3 +15,4 @@ If you change a file then commit using the following command
 git commit -a
 git push
 
+git clone git@github.com:muhammadgul/ANote.git
