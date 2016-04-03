@@ -1,6 +1,6 @@
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
 \contentsline {section}{\numberline {2}WinCC-OA}{2}{section.2}
-\contentsline {section}{\numberline {3}The CMS RPC DCS project in GIF++}{2}{section.3}
+\contentsline {section}{\numberline {3}The CMS RPC DCS project in GIF++}{3}{section.3}
 \contentsline {subsection}{\numberline {3.1}High and Low Voltage System}{3}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}Environmental and Gas Parameters}{4}{subsection.3.2}
 \contentsline {subsection}{\numberline {3.3}High Voltage Scan and Stability Test}{4}{subsection.3.3}
